@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derekYankie
 - ⛅️ I’m interested in Cloud technologies
-- 🌱 Everyday I learn something new about AWS
-- 💞️ I’m looking to collaborate on ...
+- 🏗️ Everyday I learn something new building infrastructure in AWS 
+- 💞️ I’m looking to collaborate on CI/CD with GitOps :octocat:
 - 📫 https://www.linkedin.com/in/derek-afriyie/ ...
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
