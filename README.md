@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derekYankie
 - ⛅️ I’m interested in Cloud technologies
-- 🏗️ Everyday I learn something new building infrastructure in AWS 
+- 🏗️ Every month I learn something new about building infrastructure in AWS 
 - 💞️ I’m looking to collaborate on CI/CD with GitOps :octocat:
 - 📫 https://www.linkedin.com/in/derek-afriyie/ ...
 
